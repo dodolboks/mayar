@@ -1,4 +1,4 @@
-Mayar Nim Clinet Unofficial. 
+Mayar Nim Clinet. **Under heavy development** 
 
 Untuk mulai menggunakan Mayar Headless API, Tentunya kita butuh akun account, untuk membuat akun bisa ke https://mayar.id. jika sudah punya akun, API KEY bisa di dapatkan dari https://web.mayar.id/api-keys. 
 
